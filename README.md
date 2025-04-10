@@ -4,7 +4,7 @@
 
 ## 📑 Descrição
 
-Alura book é um site desenvolvido durante um curso sobre livros de programação
+Site sobre livros de programação.
 
 ## 🎯 Funcionalidades
 
